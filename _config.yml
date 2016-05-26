@@ -1,10 +1,10 @@
 # Site settings
-title:       IIT Architectural Robotics
+title:       IIT Digital Fabrication
 email:       bbalogh@iit.edu
 author:      Brett Ian Balogh
-description: "Robots in the House"
-baseurl:     "http://IIT-ARCH-ROBOT.github.io"
-url:         "http://IIT-ARCH-ROBOT.github.io"
+description: "Robots Making Things"
+baseurl:     "http://IIT-ARCH-FAB.github.io"
+url:         "http://IIT-ARCH-FAB.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -17,7 +17,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
